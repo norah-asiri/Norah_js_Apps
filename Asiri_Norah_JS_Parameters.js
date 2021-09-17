@@ -12,6 +12,7 @@ function greet (name,time){
     if (name == "Count Dooku")
     return "I'm coming for you, Dooku!"
 return `Good day, ${name} !, Time now is ${time}`}
+var a =[1,3,4,7]
  
 //Function call
 console.log(greet("Anakin")) // with 1 prameter
